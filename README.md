@@ -2401,6 +2401,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [trubka](https://github.com/xitonix/trubka) - A CLI tool to manage and troubleshoot Apache Kafka clusters with the ability of generically publishing/consuming protocol buffer and plain text events to/from Kafka.
 * [uTask](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml.
 * [Vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
+* [Wait4X](https://github.com/atkrad/wait4x) - A cli tool to wait for everything! It can be wait for a port to open or enter to rquested state. 
 * [webhook](https://github.com/adnanh/webhook) - Tool which allows user to create HTTP endpoints (hooks) that execute commands on the server.
 * [Wide](https://wide.b3log.org/login) - Web-based IDE for Teams using Golang.
 * [winrm-cli](https://github.com/masterzen/winrm-cli) - Cli tool to remotely execute commands on Windows machines.
